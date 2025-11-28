@@ -75,7 +75,6 @@ const jhonatan = {
 | **Software Development Technologist** | **Full Stack Capable** |
 | **Software Programming Technician** | **Continuous Learner** |
 
-
 </div>
 
 ---
@@ -84,20 +83,21 @@ const jhonatan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](www.linkedin.com/in/jhonatan-barrera-37b7a5219)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/jhonatan-barrera-37b7a5219)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/jhonatan2405)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:jhonatanba0524@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF00)](https://YOUR_PORTFOLIO.com)
 
 </div>
 
 ---
 
+## 📈 GitHub Stats
+
 <div align="center">
 
-### � Profile Views
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhonatan2405&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&sideLabels=00FF00&dates=00FF00)
 
-![Visitor Count](https://profile-counter.glitch.me/jhonatan2405/count.svg?color=00FF00&style=flat-square)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan2405&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00)
 
 </div>
 
@@ -129,7 +129,7 @@ const jhonatan = {
 
 ### 💚 Open to collaborate on exciting projects!
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](www.linkedin.com/in/jhonatan-barrera-37b7a5219)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/jhonatan-barrera-37b7a5219)
 [![Email](https://img.shields.io/badge/Send_Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:jhonatanba0524@gmail.com)
 
 ---
