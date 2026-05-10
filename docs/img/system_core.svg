@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="350">
+  <style>
+    .bg { fill: none; stroke: #ffffff; stroke-width: 1; stroke-opacity: 0.2; }
+    .main-title { font-family: sans-serif; font-size: 24px; font-weight: 900; fill: #ffffff; text-anchor: middle; letter-spacing: 2px; }
+    .subtitle { font-family: monospace; font-size: 10px; fill: #888888; text-anchor: middle; letter-spacing: 1px; }
+    .box { fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-opacity: 0.6; }
+    .box-title { font-family: sans-serif; font-size: 20px; font-weight: bold; fill: #ffffff; }
+    .box-subtitle { font-family: sans-serif; font-size: 10px; fill: #888888; }
+    .bullet { fill: #ffffff; }
+    .text { font-family: sans-serif; font-size: 13px; fill: #cccccc; }
+    .icon { fill: none; stroke: #ffffff; stroke-width: 2; }
+  </style>
+  <rect x="20" y="20" width="760" height="310" rx="10" class="bg" />
+  <circle cx="400" cy="50" r="15" class="icon" />
+  <circle cx="400" cy="50" r="5" fill="#ffffff" />
+  <path d="M 400,25 L 400,10 M 400,75 L 400,90 M 375,50 L 360,50 M 425,50 L 440,50" class="icon" stroke-width="1.5" stroke-opacity="0.5"/>
+  <text x="400" y="85" class="main-title">SYSTEM CORE</text>
+  <text x="400" y="105" class="subtitle">runtime capabilities • cognitive stack • engineering doctrine</text>
+  <rect x="50" y="130" width="220" height="170" rx="10" class="box" />
+  <text x="70" y="165" class="box-title">BUILD SYSTEMS</text>
+  <text x="70" y="180" class="box-subtitle">Frontend • UI/UX • Web Apps</text>
+  <circle cx="75" cy="210" r="3" class="bullet"/>
+  <text x="85" y="214" class="text">Scalable React applications</text>
+  <circle cx="75" cy="240" r="3" class="bullet"/>
+  <text x="85" y="244" class="text">Responsive UI/UX design</text>
+  <circle cx="75" cy="270" r="3" class="bullet"/>
+  <text x="85" y="274" class="text">State management systems</text>
+  <rect x="290" y="130" width="220" height="170" rx="10" class="box" />
+  <text x="310" y="165" class="box-title">INTERESTS</text>
+  <text x="310" y="180" class="box-subtitle">Architecture • Patterns • Backend</text>
+  <circle cx="315" cy="210" r="3" class="bullet"/>
+  <text x="325" y="214" class="text">Advanced React Patterns</text>
+  <circle cx="315" cy="240" r="3" class="bullet"/>
+  <text x="325" y="244" class="text">Modern Web Architecture</text>
+  <circle cx="315" cy="270" r="3" class="bullet"/>
+  <text x="325" y="274" class="text">Fullstack Integrations</text>
+  <rect x="530" y="130" width="220" height="170" rx="10" class="box" />
+  <text x="550" y="165" class="box-title">PHILOSOPHY</text>
+  <text x="550" y="180" class="box-subtitle">Principles &amp; mindset</text>
+  <circle cx="555" cy="210" r="3" class="bullet"/>
+  <text x="565" y="214" class="text">Clean code is non-negotiable</text>
+  <circle cx="555" cy="240" r="3" class="bullet"/>
+  <text x="565" y="244" class="text">Always be learning</text>
+  <circle cx="555" cy="270" r="3" class="bullet"/>
+  <text x="565" y="274" class="text">Systems &gt; Quick hacks</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="110">
+  <style>
+    .text-base { font-family: 'Consolas', 'Courier New', monospace; }
+    .box { fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-opacity: 0.5; }
+    .label { font-size: 8px; fill: #888888; letter-spacing: 1px; font-weight: bold;}
+    .title { font-size: 16px; font-weight: bold; fill: #ffffff; }
+    .desc { font-size: 9px; fill: #aaaaaa; }
+    .pill { fill: none; stroke: #ffffff; stroke-width: 1; stroke-opacity: 0.7; }
+    .pill-text { font-size: 8px; font-weight: bold; fill: #ffffff; text-anchor: middle; }
+    .icon { stroke: #ffffff; stroke-width: 2; fill: none; }
+  </style>
+  <rect x="5" y="10" width="250" height="90" rx="10" class="box" />
+  <circle cx="40" cy="55" r="15" class="icon" />
+  <circle cx="40" cy="55" r="5" class="icon" fill="#fff" />
+  <path d="M 25,55 L 10,55 M 55,55 L 70,55 M 40,40 L 40,25 M 40,70 L 40,85" class="icon" stroke-width="1.5"/>
+  <text x="75" y="35" class="text-base label">CORE ARCHITECTURE</text>
+  <text x="75" y="55" class="text-base title">FRONTEND SYSTEMS</text>
+  <text x="75" y="70" class="text-base desc">Scalable app ecosystems.</text>
+  <rect x="75" y="78" width="45" height="14" rx="7" class="pill" />
+  <text x="97.5" y="88" class="text-base pill-text">REACT</text>
+  <rect x="125" y="78" width="55" height="14" rx="7" class="pill" />
+  <text x="152.5" y="88" class="text-base pill-text">NEXT.JS</text>
+</svg>

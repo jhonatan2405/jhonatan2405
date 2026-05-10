@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="100">
+  <style>
+    .box { fill: none; stroke: #ffffff; stroke-width: 1.5; stroke-opacity: 0.6; }
+    .title { font-family: sans-serif; font-size: 18px; font-weight: 900; fill: #ffffff; text-anchor: middle;}
+    .desc { font-family: monospace; font-size: 10px; fill: #888888; text-anchor: middle;}
+  </style>
+  <rect x="10" y="10" width="200" height="80" rx="10" class="box" />
+  <text x="110" y="50" class="title">CORE DOMAINS</text>
+  <text x="110" y="70" class="desc">Web Architecture</text>
+</svg>
