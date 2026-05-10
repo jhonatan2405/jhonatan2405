@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100">
+  <style>
+    .text-base { font-family: 'Consolas', 'Courier New', monospace; }
+    .title { font-size: 24px; font-weight: bold; fill: #ffffff; letter-spacing: 4px; text-anchor: middle; }
+    .subtitle { font-size: 12px; fill: #888888; text-anchor: middle; letter-spacing: 2px; }
+    .line { stroke: #ffffff; stroke-width: 1; stroke-opacity: 0.3; }
+  </style>
+  <path d="M 100,50 L 300,50" class="line" />
+  <text x="400" y="55" class="text-base title">SYSTEM ACCESS</text>
+  <path d="M 500,50 L 700,50" class="line" />
+  <text x="400" y="80" class="text-base subtitle">entry points * external systems * interfaces</text>
+  <rect x="385" y="15" width="30" height="10" rx="5" fill="none" stroke="#555" stroke-width="1"/>
+  <circle cx="392" cy="20" r="2" fill="#fff"/>
+  <circle cx="400" cy="20" r="2" fill="#fff"/>
+  <circle cx="408" cy="20" r="2" fill="#fff"/>
+</svg>
